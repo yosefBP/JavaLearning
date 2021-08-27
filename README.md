@@ -4,7 +4,7 @@
 [![Build Status](https://img.icons8.com/dusk/2x/java-coffee-cup-logo.png)]()
 
 
-- JDK 1.8.0_281 ☕️
+- JDK 1.8.0_281
 
 ## Proposito
 
